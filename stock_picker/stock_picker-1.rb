@@ -16,4 +16,4 @@ def stock_picker(stocks)
 end
 
 stock_picker([17,3,6,9,15,8,6,1,10])
-stock_picker([20,5,3,9,2,17,15,15,2])
+stock_picker([20,5,4,9,3,17,15,15,2])
